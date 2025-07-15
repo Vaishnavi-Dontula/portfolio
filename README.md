@@ -23,7 +23,7 @@ Tools & DevOps: Git, GitHub, GitHub Pages, VS Code
 Libraries: GSAP, FormSubmit, Devicon CDN
 
 🚀 Live Site:
-https://vaishnavidontula.github.io/portfolio/
+https://vaishnavi-dontula.github.io/portfolio/
 
 🧾 Pages:
 •	index.html – Home + About + Projects + Contact
